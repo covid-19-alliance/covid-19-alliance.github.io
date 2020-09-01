@@ -1,4 +1,7 @@
-# Terms of Use
+---
+title: Terms of Use
+layout: default
+---
 
 > Status: DRAFT FOR REVIEW
 
