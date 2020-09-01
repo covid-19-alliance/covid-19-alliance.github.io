@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-layout: default
+layout: page
 ---
 
 > Status: DRAFT FOR REVIEW
