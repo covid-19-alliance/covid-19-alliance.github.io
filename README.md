@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 > This site is work in progress. 
 
 ## About us
