@@ -1,3 +1,8 @@
+---
+title: Development Principles
+layout: page
+---
+
 # Development Principles
 
 > Status: DRAFT FOR REVIEW
