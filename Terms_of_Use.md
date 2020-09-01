@@ -4,7 +4,7 @@
 
 ## Welcome
 
-Welcome to COVID-19 Workbench (“the Service”) which you may only access as a user authorized to do so by the International COVID-19 Research Data Alliance (“the Alliance”). To be authorized by the Alliance users will require to be accredited and registered and enter into a Data Use Agreement in terms approved by the Alliance. If you are not such an authorized user you are not entitled to access the Service and should contact the [Alliance] to find out how you can become an authorized user.
+Welcome to COVID-19 Workbench (“the Service”) which you may only access as a user authorized to do so by the International COVID-19 Research Data Alliance (“the Alliance”). To be authorized by the Alliance users will require to be accredited and registered and enter into a Data Use Agreement in terms approved by the Alliance. If you are not such an authorized user you are not entitled to access the Service and should contact the Alliance to find out how you can become an authorized user.
 By accessing the Service you agree to:
 
 ## Your relationship with the Alliance
