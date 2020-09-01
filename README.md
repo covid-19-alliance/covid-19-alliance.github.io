@@ -1,5 +1,3 @@
-# International COVID-19 Alliance & Workbench
-
 > This site is work in progress. 
 
 ## About us
