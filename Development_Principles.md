@@ -35,7 +35,7 @@ Every organisation involved in the development of infrastructure commits to:
 
 ### Engagement and participation.
 
-OECD, Recommendation of the Council on Health Data Governance, OECD/LEGAL/0433 http://www.oecd.org/health/health-systems/Recommendation-of-OECD-Council-on-Health-Data-Governance-Booklet.pdf
+OECD, Recommendation of the Council on Health Data Governance, OECD/LEGAL/0433 [PDF](http://www.oecd.org/health/health-systems/Recommendation-of-OECD-Council-on-Health-Data-Governance-Booklet.pdf)
 
 - Co-ordination within government and promotion of cooperation among organisations processing personal health data, whether in the public or private sector.
 - Review of the capacity of public sector health data systems used to process personal health data to serve and protect the public interest.
@@ -81,7 +81,7 @@ To be Reusable:
 
 ### Foundational Principles
 
-Foundation Principles and Core Elements for Responsible Data Sharing set out in the Global Alliance for Genomics and Health Framework for Responsible Sharing of Genomic and Health-Related Data. https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/framework-for-responsible-sharing-of-genomic-and-health-related-data/#fp
+Foundation Principles and Core Elements for Responsible Data Sharing set out in the Global Alliance for Genomics and Health Framework for Responsible Sharing of Genomic and Health-Related Data. [Web](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/framework-for-responsible-sharing-of-genomic-and-health-related-data/#fp)
 
 - Respect Individuals, Families and Communities
 - Advance Research and Scientific Knowledge
