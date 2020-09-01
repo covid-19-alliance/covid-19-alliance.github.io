@@ -12,3 +12,8 @@ The International COVID-19 Data Research Alliance and Workbench provide a co-ord
 
 - [Development Principles](Development_Principles.md)
 - [Terms of Use](Terms_of_Use.md)
+
+## Standards
+
+- The Workbench is co-developing standards for federated data sharing [Federated Data Sharing](https://github.com/federated-data-sharing)
+
