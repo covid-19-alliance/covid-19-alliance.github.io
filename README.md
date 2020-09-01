@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 ---
 
 > This site is work in progress. 
