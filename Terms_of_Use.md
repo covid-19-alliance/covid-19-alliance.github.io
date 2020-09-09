@@ -3,7 +3,9 @@ title: Terms of Use
 layout: page
 ---
 
-> Status: DRAFT FOR REVIEW
+> Revision: 01
+> Date: 1 September 2020
+> Status: DRAFT FOR REVIEW 
 
 ## Welcome
 
