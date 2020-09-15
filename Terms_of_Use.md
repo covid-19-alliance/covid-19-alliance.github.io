@@ -3,7 +3,7 @@ title: Terms of Use
 layout: page
 ---
 
-> Revision: 03
+> Revision: 04
 
 > Date: 15 September 2020
 
@@ -29,7 +29,7 @@ By accessing the COVID-19 Workbench you agree to:
 
 2\. Not attempt to identify individuals from the Workbench Data.
 
-3\. Ensure that all statistical results and outputs are non-disclosive, do not breach any individual's privacy and comply with any data use agreements in scope for the project.
+3\. Ensure that all statistical results and outputs are fully anonymized, do not breach any individual's privacy, and comply with any applicable data use agreements you may have executed relating to the COVID-19 Workbench.
 
 4\. Communicate the results of research in an open access publication, including such attribution, acknowledgement or accreditation to the researcher, project, Alliance, COVID-19 Workbench, and Data Contributors and participants as the Alliance may determine.
 
@@ -39,9 +39,11 @@ By accessing the COVID-19 Workbench you agree to:
 
 7\. Comply with the terms of the COVID-19 Workbench [Privacy Policy](https://knowledgebase.aridhia.io/article/privacy-policy/)
 
+8\. 7.  Comply with all [Alliance principles](https://www.hdruk.ac.uk/covid-19/international-covid-19-data-alliance/) 
+
 ## Personal data
 
-Before you are provided access to Workbench Data containing personal data, you will be required to execute a data sharing agreement regarding such access. Upon execution, such data sharing agreement will be incorporated here by this reference. In the event of any conflict between these Terms of Use and that data sharing agreement, the terms of the data sharing agreement will prevail.
+Before you are provided access to Workbench Data containing personal data, you will be required to execute a data use agreement regarding such access. Upon execution, such data use agreement will be incorporated here by this reference. In the event of any conflict between these Terms of Use and that data use agreement, the terms of the data use agreement will prevail.
 
 ## Data uploaded by you
 
@@ -61,11 +63,9 @@ Workbench Data used for Driver Project 1 will be limited to anonymized safety an
 
 By accessing the COVID-19 Workbench you agree to:
 
-1\. The Service using web browser cookies. These cookies are transient (they are deleted when you close your browser) and do not contain any personal data, but are necessary to enable core functionality. The Service cannot function properly without these cookies, and they can only be disabled by changing your browser preferences.
+1\. The Aridhia DRE [privacy policy](https://knowledgebase.aridhia.io/article/privacy-policy/) 
 
-2\. The Service including monitoring software which records user activity.
-
-3\. Not attempt to bypass or override the built-in Service security controls including, but not limited to:
+2\. Not attempt to bypass or override the built-in Covid-19 Workbench security controls including, but not limited to:
 
 - Inbound connectivity controls and restrictions
 - Outbound connectivity controls and restrictions
@@ -74,11 +74,11 @@ By accessing the COVID-19 Workbench you agree to:
 - Supported data ingestion methods
 - Supported data extract mechanisms including Airlock approved exports and transfers between Workspaces.
 
-4\. Keep your allocated username and password secure, not disclose them to anyone else, and not allow anyone else to use them.
+3\. Keep your allocated username and password secure, not disclose them to anyone else, and not allow anyone else to use them.
 
-5\. Log out or lock your screen if you leave your workstation unattended for any length of time.
+4\. Log out or lock your screen if you leave your workstation unattended for any length of time.
 
-6\. Ensure that your use of the Service does not breach the COVID-19 [fair usage policy](https://knowledgebase.aridhia.io/article/aridhia-dre-fair-usage-policy/)
+5\. 5.  Ensure that your use of the Covid-19 Workbench does not breach the COVID-19 [fair usage policy](https://knowledgebase.aridhia.io/article/aridhia-dre-fair-usage-policy/).
 
 ## Updates to these Terms of Use
 
@@ -101,4 +101,4 @@ ARIDHIA, FOUNDATION, ALLIANCE MEMBERS, AND DATA CONTRIBUTORS MAKE NO WARRANTY, E
 
 The Alliance may publicly disclose your name, project title and a list of datasets accessed by you.
 
-You may not use the names, logos, or trademarks of Aridhia, the Foundation, the Alliance, Alliance members, or the Data Contributors in any public disclosures without the prior written consent of such other parties unless otherwise required by law or government authority or regulatory body.
+You may not use the names (except as otherwise provided in these Terms of Use), logos, or trademarks of Aridhia, the Foundation, the Alliance, Alliance members, or the Data Contributors in any public disclosures without the prior written consent of such other parties unless otherwise required by law or government authority or regulatory body.
