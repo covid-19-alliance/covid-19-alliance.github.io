@@ -7,7 +7,7 @@ layout: page
 
 > Date: 15 September 2020
 
-> Status: FINAL DRAFT 
+> Status: FINAL 
 
 ## Welcome
 
@@ -19,7 +19,7 @@ Unless otherwise specifically stated, the COVID-19 Workbench contains anonymized
 
 ## Authorized users
 
-You may only access the COVID-19 Workbench if you have been authorized to do so by the Alliance. To become an authorized user you must (a) be approved by the Alliance to access the COVID-19 Workbench for the Purpose, (b) register to access the COVID-19 Workbench, and (c) accept these Terms of Use. If you are not such an authorized user you are not entitled to access the COVID-19 Workbench. Please contact the Alliance [international.alliance@hdruk.ac.uk](mailto:international.alliance@hdruk.ac.uk) to find out more about becoming an authorized user.
+You may only access the COVID-19 Workbench if you have been authorized to do so by the Alliance. To become an authorized user you must (a) be approved by the Alliance to access the COVID-19 Workbench for the Purpose, (b) register to access the COVID-19 Workbench, and (c) accept these Terms of Use. If you are not such an authorized user you are not entitled to access the COVID-19 Workbench. Please contact the Alliance to find out more about becoming an authorized user: [international.alliance@hdruk.ac.uk](mailto:international.alliance@hdruk.ac.uk)
 
 ## General terms
 
