@@ -76,7 +76,7 @@ By accessing the COVID-19 Workbench you agree to:
 
 4\. Log out or lock your screen if you leave your workstation unattended for any length of time.
 
-5\. 5.  Ensure that your use of the Covid-19 Workbench does not breach the COVID-19 [fair usage policy](https://knowledgebase.aridhia.io/article/aridhia-dre-fair-usage-policy/).
+5\. Ensure that your use of the Covid-19 Workbench does not breach the COVID-19 [fair usage policy](https://knowledgebase.aridhia.io/article/aridhia-dre-fair-usage-policy/).
 
 ## Updates to these Terms of Use
 
