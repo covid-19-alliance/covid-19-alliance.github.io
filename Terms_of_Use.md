@@ -37,9 +37,7 @@ By accessing the COVID-19 Workbench you agree to:
 
 6\. Comply with your organization's applicable policies and processes, including but not limited to any policies or processes relating to security, confidentiality, data protection, and ethical reviews. 
 
-7\. Comply with the terms of the COVID-19 Workbench [Privacy Policy](https://knowledgebase.aridhia.io/article/privacy-policy/)
-
-8\. 7.  Comply with all [Alliance principles](https://www.hdruk.ac.uk/covid-19/international-covid-19-data-alliance/) 
+7\. Comply with all [Alliance principles](https://www.hdruk.ac.uk/covid-19/international-covid-19-data-alliance/) 
 
 ## Personal data
 
