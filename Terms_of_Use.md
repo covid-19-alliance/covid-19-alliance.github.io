@@ -7,8 +7,6 @@ layout: page
 
 > Date: 15 September 2020
 
-> Status: FINAL 
-
 ## Welcome
 
 Welcome to the COVID-19 Workbench (the COVID-19 Workbench), a service hosted and operated by Aridhia on behalf of the Bill & Melinda Gates Foundation (the Foundation), a Washington charitable trust and a member of the [International COVID-19 Data Research Alliance](https://www.hdruk.ac.uk/covid-19/international-covid-19-data-alliance/) (the Alliance). The Alliance is a collaborative effort by academic institutions, research organizations, life sciences and technology companies, and philanthropies to build a trustworthy international partnership and enduring analysis infrastructure to support a rapid response to the COVID-19 pandemic and future pandemics. The purpose of the COVID-19 Workbench is to unite data from international clinical trials and biomedical and health research to enable discoveries that benefit all people, everywhere, by reducing the harm of the COVID-19 pandemic (the Purpose).
