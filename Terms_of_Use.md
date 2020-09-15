@@ -3,72 +3,102 @@ title: Terms of Use
 layout: page
 ---
 
-> Revision: 01
+> Revision: 02
 
-> Date: 1 September 2020
+> Date: 15 September 2020
 
-> Status: DRAFT FOR REVIEW 
+> Status: FINAL DRAFT 
 
 ## Welcome
 
-Welcome to COVID-19 Workbench (“the Service”) which you may only access as a user authorized to do so by the International COVID-19 Research Data Alliance (“the Alliance”). To be authorized by the Alliance users will require to be accredited and registered and enter into a Data Use Agreement in terms approved by the Alliance. If you are not such an authorized user you are not entitled to access the Service and should contact the Alliance to find out how you can become an authorized user.
-By accessing the Service you agree to:
+Welcome to the COVID-19 Workbench (the COVID-19 Workbench), a service hosted and operated by Aridhia on behalf of the Bill & Melinda Gates Foundation (the Foundation), a Washington charitable trust and a member of the International COVID-19 Data Research Alliance (the Alliance). The Alliance is a collaborative effort by academic institutions, research organizations, life sciences and technology companies, and philanthropies to build a trustworthy international partnership and enduring analysis infrastructure to support a rapid response to the COVID-19 pandemic and future pandemics. The purpose of the COVID-19 Workbench is to unite data from international clinical trials and biomedical and health research to enable discoveries that benefit all people, everywhere, by reducing the harm of the COVID-19 pandemic (the Purpose).
 
-### Your relationship with the Alliance
+## Workbench Data
 
-1\. Comply with all [Alliance principles](Development_Principles.md) and in particular ensure that all access to and usage of data must have a lawful and ethical basis.
+Unless otherwise specifically stated, the COVID-19 Workbench contains anonymized data (the Workbench Data), which have been provided by third parties (the Data Contributors) for the Purpose. 
 
-2\. Ensure that your use of the Service does not breach any of the obligations and limitations imposed by your relevant Data Use Agreement, or by the Alliance and notified to you.
+## Authorized users
 
-3\. Your name, project title and a list of datasets accessed by you being disclosed publicly.
+You may only access the COVID-19 Workbench if you have been authorized to do so by the Alliance. To become an authorized user you must (a) be approved by the Alliance to access the COVID-19 Workbench for the Purpose, (b) register to access the COVID-19 Workbench, and (c) accept these Terms of Use. If you are not such an authorized user you are not entitled to access the COVID-19 Workbench. Please [contact the Alliance](https://www.hdruk.ac.uk/covid-19/international-covid-19-data-alliance/) to find out more about becoming an authorized user.
 
-4\. Comply with all applicable laws and regulations including your organisation's security, confidentiality and data protection policies, and any conditions set by the relevant data controller.
+## General terms
 
-### Use of data and outputs
+By accessing the COVID-19 Workbench you agree to:
 
-5\. Refrain from copying or transferring data (other than data uploaded by you) to an external location, other than via outputs approved by the Alliance or attempting to identify individuals from the data to which you have access on the Service.
+1\. Not copy, download or transfer any Workbench Data (other than data uploaded by you) to an external location, other than via outputs approved by the Alliance.
 
-6\. All statistical results and outputs must be non-disclosive in all cases, and may be communicated in either a peer-reviewed journal or other public mechanism, or otherwise as may be determined by the Alliance.
+2\. Not attempt to identify individuals from the Workbench Data.
 
-7\. Refrain from uploading data which you are not authorized to upload, including non-pseudonymized, inappropriately consented, and regulatory prohibited data and accept responsibility for the data that you upload into a Workspace.
+3\. All statistical results and outputs must be non-disclosive in all cases, and may be communicated in either a peer-reviewed journal or other public mechanism, or otherwise as may be determined by the Alliance.
 
-8\. Get prior clearance from the Alliance or its nominee for all outputs, ensuring that the output does not breach any individual's privacy and complies with data sharing agreements in scope.
+4\. Get prior clearance from the Alliance or its designee for all outputs, ensuring that the output does not breach any individual's privacy and complies with data sharing agreements in scope.
 
-9\. Publication in open access of outputs, including such attribution, acknowledgement or accreditation to the researcher, project, Alliance, Service, and data contributors and subjects as the Alliance may determine.
+5\. Publication in open access of outputs, including such attribution, acknowledgement or accreditation to the researcher, project, Alliance, COVID-19 Workbench, and Data Contributors and subjects as the Alliance may determine.
 
-### Service integrity
+6\. Comply with all applicable laws, regulations, and rules in using the COVID-19 Workbench and Workbench Data.
 
-10\. The Service using web browser cookies. These cookies are transient (they are deleted when you close your browser) and do not contain any personal data, but are necessary to enable core functionality. The Service cannot function properly without these cookies, and they can only be disabled by changing your browser preferences.
+7\. Comply with your organization's applicable policies and processes, including but not limited to any policies or processes relating to security, confidentiality, data protection, and ethical reviews. 
 
-11\. The Service including monitoring software which records user activity.
+8\. Comply with all Alliance principles [Alliance principles](Development_Principles.md).
 
-12\. Not attempt to bypass or override the built-in Service security controls including, but not limited to:
-    - Inbound connectivity controls and restrictions
-    - Outbound connectivity controls and restrictions
-    - Workspace segregation and permissions
-    - Virus scanning
-    - Supported data ingestion methods
-    - Supported data extract mechanisms including Airlock approved exports and transfers between Workspaces.
+## Supplemental terms – driver project 1
 
-13\. Keep your allocated username and password secure, not disclose them to anyone else, and not allow anyone else to use them.
+Workbench Data used for driver project 1 will be limited to anonymized safety and efficacy endpoints data summarized by defined subgroups (the Driver Project 1 Data). To become an authorized user of Driver Project 1 Data, you must be working in the field of scientific inquiry applicable to vaccines or therapies for COVID-19, SARS-COV-2, or other pathogens and conditions related to COVID-19 and SARS-COV-2. If you are authorized to access Driver Project 1 Data, by accessing such data you agree to:
 
-14\. Log out or lock your screen if you leave your workstation unattended for any length of time.
+1\. Access and use the Driver Project 1 Data only for non-commercial secondary research, information sharing, and publication uses relating to the Purpose and only so long as you remain an authorized user.
 
-15\. Ensure that your use of the Service does not breach the COVID-19 [fair usage policy](https://knowledgebase.aridhia.io/article/aridhia-dre-fair-usage-policy/)
+2\. Not conduct, either directly or indirectly through a third-party service provider, any clinical trials or other commercial activities using the Driver Project 1 Data (or improvements thereto).
 
-### Privacy legislation
+3\. Not sublicense any Driver Project 1 Data to a third party for the conduct of any clinical trials or other commercial activities.
 
-16\. Comply with all obligations contained in the EU General Data Protection Regulation, the UK Data Protection Act 2018 (for UK authorized users) and all relevant data protection legislation in force in the jurisdiction in which you are located.
+## Personal data
 
-17\. Comply with the terms of the COVID-19 Workbench [Privacy Policy](https://knowledgebase.aridhia.io/article/privacy-policy/)
-Updates to this agreement
+Before you are provided access to Workbench Data containing personal data, you will be required to execute a data sharing agreement regarding such access. Upon execution, such data sharing agreement will be incorporated here by this reference. In the event of any conflict between these Terms of Use and that data sharing agreement, the terms of the data sharing agreement will prevail.
 
-18\. The updating and amendment of these terms from time to time. If you do not accept any such update or amendment you must cease to use the Service.
+## Data uploaded by you
 
-### Breach of Terms of Use
+If you upload data to the COVID-19 Workbench for your own use, you represent and warrant that: (a) such data does not contain personal data; (b) you have all rights, title, and interest in and to such data required to upload and use such data on the COVID-19 Workbench; (c) to the best of your knowledge such data does not and will not infringe, violate, or misappropriate any third-party rights; and (d) you have all full and proper consents, permissions, approvals, authorizations, and legal bases necessary to permit the disclosure, transfer (including cross-border transfer), storage, maintenance, and use of such data on the COVID-19 Workbench.
 
-19\. Withdrawal of your right to access the Service in the event of breach of any of these Terms of Use.
+## Service integrity
 
-## The Knowledge Base Terms and Conditions
+By accessing the COVID-19 Workbench you agree to:
 
-The COVID-19 Workbench uses the Aridhia DRE [Knowledge Base](https://knowledgebase.aridhia.io). Terms and Conditions for this resource can be found [here](https://knowledgebase.aridhia.io/terms-and-conditions/) and are deemed accepted by accessing the Service.
+1\. The Service using web browser cookies. These cookies are transient (they are deleted when you close your browser) and do not contain any personal data, but are necessary to enable core functionality. The Service cannot function properly without these cookies, and they can only be disabled by changing your browser preferences.
+
+2\. The Service including monitoring software which records user activity.
+
+3\. Not attempt to bypass or override the built-in Service security controls including, but not limited to:
+- Inbound connectivity controls and restrictions
+- Outbound connectivity controls and restrictions
+- Workspace segregation and permissions
+- Virus scanning
+- Supported data ingestion methods
+- Supported data extract mechanisms including Airlock approved exports and transfers between Workspaces.
+
+10\. Keep your allocated username and password secure, not disclose them to anyone else, and not allow anyone else to use them.
+
+11\. Log out or lock your screen if you leave your workstation unattended for any length of time.
+
+12\. Ensure that your use of the Service does not breach the COVID-19 fair usage policy [fair usage policy](https://knowledgebase.aridhia.io/article/aridhia-dre-fair-usage-policy/)
+
+## Updates to these Terms of Use
+
+Aridhia reserves the right to change these Terms of Use at any time by posting changes on-line. Your continued use of the COVID-19 Workbench after changes are posted constitutes acceptance of these Terms of Use as modified by the posted changes.
+
+## Termination
+
+Aridhia may terminate your right to access the COVID-19 Workbench or any Workbench Data at any time for any reason, including in the event of a breach by you of any of these Terms of Use.
+Upon the termination of your access or upon Aridhia’s request, you will promptly return or destroy any Workbench Data in your possession.
+
+## Indemnification
+
+You shall indemnify, defend and hold harmless Aridhia, Foundation, Alliance members, and Data Contributors, and their respective officers, employees, agents, successors, heirs and assigns (the Indemnitees), against any liability, damage, loss or expense (including, without limitation, reasonable attorneys' fees and expenses of litigation) incurred by or imposed upon the Indemnitees, or any one of them, in connection with any third party claims, suits, actions, demands or judgments to the extent arising out of your use of the Workbench Data in breach of these Terms of Use or the activities conducted pursuant hereto. Your indemnification obligations will not apply to any liability, damage, loss, or expense to the extent that is attributable to the fraud, negligence, or willful misconduct of the Indemnitees.
+
+## Representations; Disclaimer of Warranties
+
+ARIDHIA, FOUNDATION, ALLIANCE MEMBERS, AND DATA CONTRIBUTORS MAKE NO WARRANTY, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO ANY PATENT, TRADEMARK, NON-PUBLIC OR OTHER INFORMATION, TANGIBLE RESEARCH PROPERTY, OR ANY OTHER PROPERTY OR RIGHT LICENSED HEREUNDER AND HEREBY DISCLAIMS THE SAME.
+
+## Publicity
+
+The Alliance may publicly disclose your name, project title and a list of datasets accessed by you.
+You may not use the names, logos, or trademarks of Aridhia, the Foundation, the Alliance, Alliance members, or the Data Contributors in any public disclosures without the prior written consent of such other parties unless otherwise required by law or government authority or regulatory body.
