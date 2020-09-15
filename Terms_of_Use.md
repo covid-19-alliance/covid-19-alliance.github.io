@@ -39,7 +39,7 @@ By accessing the COVID-19 Workbench you agree to:
 
 7\. Comply with your organization's applicable policies and processes, including but not limited to any policies or processes relating to security, confidentiality, data protection, and ethical reviews. 
 
-8\. Comply with all Alliance principles [Alliance principles](Development_Principles.md).
+8\. Comply with all [Alliance principles](Development_Principles.md).
 
 ## Supplemental terms – driver project 1
 
