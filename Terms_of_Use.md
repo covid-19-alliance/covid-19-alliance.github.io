@@ -3,9 +3,9 @@ title: Terms of Use
 layout: page
 ---
 
-> Revision: 04
+> Revision: 05
 
-> Date: 15 September 2020
+> Date: 22 September 2020
 
 ## Welcome
 
@@ -87,7 +87,7 @@ Upon the termination of your access or upon Aridhia’s request, you will prompt
 
 ## Indemnification
 
-You shall indemnify, defend and hold harmless Aridhia, Foundation, Alliance members, and Data Contributors, and their respective officers, employees, agents, successors, heirs and assigns (the Indemnitees), against any liability, damage, loss or expense (including, without limitation, reasonable attorneys' fees and expenses of litigation) incurred by or imposed upon the Indemnitees, or any one of them, in connection with any third party claims, suits, actions, demands or judgments to the extent arising out of your use of the Workbench Data in breach of these Terms of Use or the activities conducted pursuant hereto. Your indemnification obligations will not apply to any liability, damage, loss, or expense to the extent that is attributable to the fraud, negligence, or willful misconduct of the Indemnitees.
+You shall indemnify, defend and hold harmless Aridhia, Foundation, Alliance members, and Data Contributors, and their respective officers, employees, agents, successors, heirs and assigns (the Indemnitees), against any liability, damage, loss or expense (including, without limitation, reasonable attorneys' fees and expenses of litigation) incurred by or imposed upon the Indemnitees, or any one of them, in connection with any third party claims, suits, actions, demands or judgments to the extent arising out of (a) your use of the Workbench Data in breach of these Terms of Use or the activities conducted pursuant hereto, or (b) your negligence or willful misconduct. Your indemnification obligations will not apply to any liability, damage, loss, or expense to the extent that is attributable to the fraud, negligence, or willful misconduct of the Indemnitees.
 
 ## Representations; Disclaimer of Warranties
 
