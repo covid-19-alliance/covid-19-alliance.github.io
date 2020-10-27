@@ -3,9 +3,9 @@ title: Terms of Use
 layout: page
 ---
 
-> Revision: 05
+> Revision: 06
 
-> Date: 22 September 2020
+> Date: 27 October 2020
 
 ## Welcome
 
@@ -51,9 +51,11 @@ Workbench Data used for Driver Project 1 will be limited to anonymized safety an
 
 1\.  Access and use the Driver Project 1 Data only for non-commercial secondary research, information sharing, and publication uses relating to the Purpose and only so long as you remain an authorized user.
 
-2\.  Not conduct, either directly or indirectly through a third-party service provider, any clinical trials or other commercial activities using the Driver Project 1 Data (or improvements thereto).
+2\. Not file an application to acquire a patent, copyright, trademark or any other intellectual property right on any outputs that predominantly stems from the use or analysis of the Driver Project 1 Data.
 
-3\. Not sublicense any Driver Project 1 Data to a third party for the conduct of any clinical trials or other commercial activities.
+3\. Not conduct, either directly or indirectly through a third-party service provider, any clinical trials or other commercial activities using the Driver Project 1 Data (or improvements thereto).
+
+4\. Not sublicense any Driver Project 1 Data to a third party for the conduct of any clinical trials or other commercial activities.
 
 ## Service integrity
 
