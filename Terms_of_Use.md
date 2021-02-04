@@ -3,13 +3,13 @@ title: Terms of Use
 layout: page
 ---
 
-> Revision: 06
+> Revision: 07
 
-> Date: 27 October 2020
+> Date: 2 February 2021
 
 ## Welcome
 
-Welcome to the COVID-19 Workbench (the COVID-19 Workbench), a service hosted and operated by Aridhia on behalf of the Bill & Melinda Gates Foundation (the Foundation), a Washington charitable trust and a member of the [International COVID-19 Data Research Alliance](https://www.hdruk.ac.uk/covid-19/international-covid-19-data-alliance/) (the Alliance). The Alliance is a collaborative effort by academic institutions, research organizations, life sciences and technology companies, and philanthropies to build a trustworthy international partnership and enduring analysis infrastructure to support a rapid response to the COVID-19 pandemic and future pandemics. The purpose of the COVID-19 Workbench is to unite data from international clinical trials and biomedical and health research to enable discoveries that benefit all people, everywhere, by reducing the harm of the COVID-19 pandemic (the Purpose).
+Welcome to the COVID-19 Workbench (the COVID-19 Workbench), a service hosted and operated by Aridhia on behalf of the Bill & Melinda Gates Foundation (the Foundation), a Washington charitable trust and a member of the [International COVID-19 Data Research Alliance](https://icoda-research.org/) (ICODA). The purpose of the COVID-19 Workbench is to unite data from international clinical trials and biomedical and health research to enable discoveries that benefit all people, everywhere, by reducing the harm of the COVID-19 pandemic and future pandemics (the Purpose).
 
 ## Workbench Data
 
@@ -17,25 +17,25 @@ Unless otherwise specifically stated, the COVID-19 Workbench contains anonymized
 
 ## Authorized users
 
-You may only access the COVID-19 Workbench if you have been authorized to do so by the Alliance. To become an authorized user you must (a) be approved by the Alliance to access the COVID-19 Workbench for the Purpose, (b) register to access the COVID-19 Workbench, and (c) accept these Terms of Use. If you are not such an authorized user you are not entitled to access the COVID-19 Workbench. Please contact the Alliance to find out more about becoming an authorized user: [international.alliance@hdruk.ac.uk](mailto:international.alliance@hdruk.ac.uk)
+You may only access the COVID-19 Workbench if you have been authorized to do so by ICODA. To become an authorized user you must (a) be approved by ICODA to access the COVID-19 Workbench for the Purpose, (b) register to access the COVID-19 Workbench, and (c) accept these Terms of Use. If you are not such an authorized user you are not entitled to access the COVID-19 Workbench. Please contact ICODA to find out more about becoming an authorized user: [international.alliance@hdruk.ac.uk](mailto:international.alliance@hdruk.ac.uk)
 
 ## General terms
 
 By accessing the COVID-19 Workbench you agree to:
 
-1\. Not copy, download or transfer any Workbench Data (other than data uploaded by you) to an external location, other than via outputs approved by the Alliance.
+1\. Not copy, download or transfer any Workbench Data (other than data uploaded by you) to an external location, other than via outputs approved by ICODA.
 
 2\. Not attempt to identify individuals from the Workbench Data.
 
 3\. Ensure that all statistical results and outputs are fully anonymized, do not breach any individual's privacy, and comply with any applicable data use agreements you may have executed relating to the COVID-19 Workbench.
 
-4\. Communicate the results of research in an open access publication, including such attribution, acknowledgement or accreditation to the researcher, project, Alliance, COVID-19 Workbench, and Data Contributors and participants as the Alliance may determine.
+4\. Communicate the results of research in an open access publication, including such attribution, acknowledgement or accreditation to the researcher, project, ICODA, COVID-19 Workbench, and Data Contributors and participants as ICODA may determine.
 
 5\. Comply with all applicable laws, regulations, and rules in using the COVID-19 Workbench and Workbench Data.
 
 6\. Comply with your organization's applicable policies and processes, including but not limited to any policies or processes relating to security, confidentiality, data protection, and ethical reviews. 
 
-7\. Comply with all [Alliance principles](https://www.hdruk.ac.uk/covid-19/international-covid-19-data-alliance/) 
+7\. Comply with all [ICODA principles](https://icoda-research.org/about/about-us/#ourprinciples) 
 
 ## Personal data
 
@@ -47,15 +47,11 @@ If you upload data to the COVID-19 Workbench for your own use, you represent and
 
 ## Supplemental terms – Driver Project 1
 
-Workbench Data used for Driver Project 1 will be limited to anonymized safety and efficacy endpoints data summarized by defined subgroups (the Driver Project 1 Data). To become an authorized user of Driver Project 1 Data, you must be working in the field of scientific inquiry applicable to vaccines or therapies for COVID-19, SARS-COV-2, or other pathogens and conditions related to COVID-19 and SARS-COV-2. If you are authorized to access Driver Project 1 Data, by accessing such data you agree to:
+Workbench Data used for Driver Project 1 will be limited to anonymized summary-level safety and efficacy endpoints defined subgroups (the Driver Project 1 Data). To become an authorized user of Driver Project 1 Data, you must be working in the field of scientific inquiry applicable to vaccines or therapies for COVID-19, SARS-COV-2, or other pathogens and conditions related to COVID-19 and SARS-COV-2. If you are authorized to access Driver Project 1 Data, by accessing such data you agree:
 
-1\.  Access and use the Driver Project 1 Data only for non-commercial secondary research, information sharing, and publication uses relating to the Purpose and only so long as you remain an authorized user.
+1\.  To access and use the Driver Project 1 Data only for non-commercial secondary research, information sharing, and publication uses relating to the Purpose and only so long as you remain an authorized user. For clarity, you may not, directly or indirectly through a third-party service provider, use the Driver Project 1 Data to conduct any clinical trials or other commercial activities under these Terms of Use or sublicense the Driver Project 1 Data (or improvements thereto) to a third party for the conduct of any clinical trials or other commercial activities.
 
-2\. Not file an application to acquire a patent, copyright, trademark or any other intellectual property right on any outputs that predominantly stems from the use or analysis of the Driver Project 1 Data.
-
-3\. Not conduct, either directly or indirectly through a third-party service provider, any clinical trials or other commercial activities using the Driver Project 1 Data (or improvements thereto).
-
-4\. Not sublicense any Driver Project 1 Data to a third party for the conduct of any clinical trials or other commercial activities.
+2\. That if you develop patentable intellectual property that predominantly stems from the use or analysis of the Driver Project 1 Data, you hereby grant a perpetual, non-exclusive, worldwide, irrevocable, fully paid up, royalty free, unrestricted and sub-licensable license for all purposes to the Data Contributors to such intellectual property.
 
 ## Service integrity
 
@@ -89,14 +85,19 @@ Upon the termination of your access or upon Aridhia’s request, you will prompt
 
 ## Indemnification
 
-You shall indemnify, defend and hold harmless Aridhia, Foundation, Alliance members, and Data Contributors, and their respective officers, employees, agents, successors, heirs and assigns (the Indemnitees), against any liability, damage, loss or expense (including, without limitation, reasonable attorneys' fees and expenses of litigation) incurred by or imposed upon the Indemnitees, or any one of them, in connection with any third party claims, suits, actions, demands or judgments to the extent arising out of (a) your use of the Workbench Data in breach of these Terms of Use or the activities conducted pursuant hereto, or (b) your negligence or willful misconduct. Your indemnification obligations will not apply to any liability, damage, loss, or expense to the extent that is attributable to the fraud, negligence, or willful misconduct of the Indemnitees.
+You shall indemnify, defend and hold harmless Aridhia, Foundation, ICODA members, and Data Contributors, and their respective officers, employees, agents, successors, heirs and assigns (the Indemnitees), against any liability, damage, loss or expense (including, without limitation, reasonable attorneys' fees and expenses of litigation) incurred by or imposed upon the Indemnitees, or any one of them, in connection with any third party claims, suits, actions, demands or judgments to the extent arising out of (a) your use of the Workbench Data in breach of these Terms of Use or the activities conducted pursuant hereto, or (b) your negligence or willful misconduct. Your indemnification obligations will not apply to any liability, damage, loss, or expense to the extent that is attributable to the fraud, negligence, or willful misconduct of the Indemnitees.
 
 ## Representations; Disclaimer of Warranties
 
-ARIDHIA, FOUNDATION, ALLIANCE MEMBERS, AND DATA CONTRIBUTORS MAKE NO WARRANTY, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO ANY PATENT, TRADEMARK, NON-PUBLIC OR OTHER INFORMATION, TANGIBLE RESEARCH PROPERTY, OR ANY OTHER PROPERTY OR RIGHT LICENSED HEREUNDER AND HEREBY DISCLAIMS THE SAME.
+ARIDHIA, FOUNDATION, ICODA MEMBERS, AND DATA CONTRIBUTORS MAKE NO WARRANTY, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO ANY PATENT, TRADEMARK, NON-PUBLIC OR OTHER INFORMATION, TANGIBLE RESEARCH PROPERTY, OR ANY OTHER PROPERTY OR RIGHT LICENSED HEREUNDER AND HEREBY DISCLAIMS THE SAME.
 
 ## Publicity
 
-The Alliance may publicly disclose your name, project title and a list of datasets accessed by you.
+ICODA may publicly disclose your name, project title and a list of datasets accessed by you.
 
-You may not use the names (except as otherwise provided in these Terms of Use), logos, or trademarks of Aridhia, the Foundation, the Alliance, Alliance members, or the Data Contributors in any public disclosures without the prior written consent of such other parties unless otherwise required by law or government authority or regulatory body.
+You may not use the names (except as otherwise provided in these Terms of Use), logos, or trademarks of Aridhia, the Foundation, ICODA, ICODA members, or the Data Contributors in any public disclosures without the prior written consent of such other parties unless otherwise required by law or government authority or regulatory body.
+
+Unless otherwise indicated, content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License] (https://creativecommons.org/licenses/by-sa/4.0/).
+
+[![CC BY-SA](createivecommons.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
