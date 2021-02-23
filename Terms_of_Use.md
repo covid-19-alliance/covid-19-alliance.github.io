@@ -3,9 +3,9 @@ title: Terms of Use
 layout: page
 ---
 
-> Revision: 07
+> Revision: 08
 
-> Date: 2 February 2021
+> Date: 18 February 2021
 
 ## Welcome
 
@@ -29,7 +29,7 @@ By accessing the COVID-19 Workbench you agree to:
 
 3\. Ensure that all statistical results and outputs are fully anonymized, do not breach any individual's privacy, and comply with any applicable data use agreements you may have executed relating to the COVID-19 Workbench.
 
-4\. Communicate the results of research in an open access publication, including such attribution, acknowledgement or accreditation to the researcher, project, ICODA, COVID-19 Workbench, and Data Contributors and participants as ICODA may determine.
+4\. Communicate any results of research in an open access publication, including such attribution, acknowledgement or accreditation to the researcher, project, ICODA, COVID-19 Workbench, and Data Contributors and participants as ICODA may determine, and in accordance with the ICODA Publication and Attribution policies.
 
 5\. Comply with all applicable laws, regulations, and rules in using the COVID-19 Workbench and Workbench Data.
 
