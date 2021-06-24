@@ -14,7 +14,7 @@ The International COVID-19 Data Research Alliance and Workbench provide a co-ord
 ## Governance Documentation
 
 - [Development Principles](Development_Principles.md)
-- [Terms of Use](Terms_of_Use.md)
+- [Driver Project 1 and 2 Terms of Use](Terms_of_Use.md)
 - [Grand Challenge Terms of Use](https://covid-19-alliance.github.io/GC_Terms_of_use.html)
 
 ## Standards
