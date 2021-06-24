@@ -3,7 +3,7 @@ title: ICODA Grand Challenge Terms of Use
 layout: page
 ---
 
-> Revision: 01
+> Revision: 09
 
 > Date: 16th June 2021 
 
