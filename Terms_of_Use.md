@@ -1,5 +1,5 @@
 ---
-title: Terms of Use
+title: Driver Projects 1 and 2 Terms of Use
 layout: page
 ---
 
@@ -97,3 +97,5 @@ ICODA may publicly disclose your name, project title and a list of datasets acce
 
 You may not use the names (except as otherwise provided in these Terms of Use), logos, or trademarks of Aridhia, the Foundation, ICODA, ICODA members, or the Data Contributors in any public disclosures without the prior written consent of such other parties unless otherwise required by law or government authority or regulatory body.
 
+
+>Published by Laura Shishodia 
